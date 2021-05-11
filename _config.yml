@@ -1,1 +1,16 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Aykut Aktaş | Software Engineer, iOS Developer
+description: Personal Page
+
+# User settings
+username: Aykut Aktaş
+user_description: Aykut Aktaş
+user_title: Software Engineer, iOS Developer
+twitter_username: aykutaktas
+github_username: aykutaktas
+
+# Google-analytics
+google-analytics:
+  id: "G-BWFD6MLK8S"
+
+exclude: ['package.json', 'src' , 'node_modules']
